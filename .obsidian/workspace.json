@@ -185,6 +185,9 @@
   },
   "active": "81eb045f0a813e72",
   "lastOpenFiles": [
+    "eks-cluster.yaml",
+    "docs/architecture.md",
+    "docs",
     "argocd/application.yaml",
     "kubernetes/externalsecret.yaml",
     "kubernetes/ingress.yaml",
@@ -193,8 +196,6 @@
     "app/DOCKERFILE",
     "app/requirements.txt",
     "app/app.py",
-    "screenshots",
-    "github-actions",
-    "argocd"
+    "screenshots"
   ]
 }

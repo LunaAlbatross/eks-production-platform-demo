@@ -84,3 +84,12 @@ Cluster Autoscaler dynamically adjusts worker node count based on scheduling req
 - Docker
     
 - GitHub Actions
+
+
+## Future Enhancements
+
+- Push Docker images to Amazon ECR
+- Automatic image tag updates
+- ArgoCD automated deployment
+- Prometheus monitoring
+- Grafana dashboards
